@@ -59,6 +59,9 @@ function App() {
       <header className="cabecalho">
         <h1>VIO WEB</h1>
         <p>Venda de Ingressos Online</p>
+        <p style={{ marginTop: "10px", fontSize: "1rem", color: "#4ade80" }}>
+          Aluno: <strong>Felipe Avelino Pedaes</strong> — <strong>4º Semestre DSM</strong>
+        </p>
       </header>
 
       <main className="conteudo">
